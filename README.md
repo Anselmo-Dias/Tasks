@@ -24,20 +24,6 @@ Projeto criado com intuito de te ajuda a ter o controle da suas tarefas do dia a
 
 <br />
 
-## :bulb: Conteúdos abordados
-<br />
-
-
-- React
-- Styled Components 
-- MirageJS
-- Context API's
-- hooks
-- Axios
-
-<br />
-
-
 ## 💻 Rodando o projeto na sua maquina
 <br />
 
