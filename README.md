@@ -22,6 +22,8 @@
 
 Projeto criado com intuito de te ajuda a ter o controle da suas tarefas do dia a dia!
 
+<img width="926" alt="Captura de tela 2023-08-05 212200" src="https://github.com/Anselmo-Dias/Tasks/assets/96529532/ad30e3b9-7227-49ba-8c8b-a806cdd32dd3">
+
 <br />
 
 ## 💻 Rodando o projeto na sua maquina
@@ -29,9 +31,11 @@ Projeto criado com intuito de te ajuda a ter o controle da suas tarefas do dia a
 
 Para colocar o projeto para rodar, basta seguir o passo a passo fornecido logo abaixo:
 
-- 1º: Faça o download deste projeto;
-- 2º: Com o terminal/prompt abra o diretório deste projeto e execute o comando npm run ou yarn;
-- 3º: Pronto tudo configurado, faça bom proveito;
+- 1º: Tenha node instalado;
+- 2º: Faça o download deste projeto;
+- 3º: Com o terminal/prompt abra o diretório deste projeto e execute o comando npm i;
+- 4º: Faça o download deste projeto;
+- 5º: Pronto tudo configurado, faça bom proveito;
 
 <br />
 
@@ -46,6 +50,7 @@ Este projeto esta sob a [MIT license](LICENSE) para mais detalhes.
 Siga -me no instagram
 <br />
 
-- [Instagram](https://www.instagram.com/_anselmo_69/)
+- [Instagram](https://www.instagram.com/_anselmo.dev/)
+- [Linkedin](https://www.linkedin.com/in/anselmo-dias-dev/)
 
 <br />
